@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wizardlime
 - 👀 I’m interested in web and app development, frontend, ui/ux design
-- 🌱 I’m currently learning Kotlin for android development
+- 🌱 I’m currently learning python and react.js
 - 💞️ I’m looking to collaborate on frontend or ui development
 
 <!---
