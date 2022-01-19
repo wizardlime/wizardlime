@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wizardlime
-- 👀 I’m interested in web and app development, frontend, ui/ux design
-- 🌱 I’m currently learning python and react.js
-- 💞️ I’m looking to collaborate on frontend or ui development
+- 👀 I’m interested in web development and ethical hacking
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on web development or ethical hacking
 
 <!---
 wizardlime/wizardlime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
