@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wizardlime
 - 👀 I’m interested in web development and ethical hacking
-- 🌱 I’m currently learning react and node.js
+- 🌱 I’m currently learning laravel and tailwind
 - 💞️ I’m looking to collaborate on web development or ethical hacking
 
 <!---
