@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wizardlime
 - 👀 I’m interested in web development and ethical hacking
-- 🌱 I’m currently learning PHP and Python
+- 🌱 I’m currently learning Nodejs and Python
 - 💞️ I’m looking to collaborate on web development or ethical hacking
 
 <!---
